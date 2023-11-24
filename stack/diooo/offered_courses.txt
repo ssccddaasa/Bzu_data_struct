@@ -1,0 +1,9 @@
+IntroductiontoFrench:3#FREN111#FrenchLanguage/letters,numbers,greetings,grammars,statements
+Datastructures:4#COMP2421#ComputerScience/recursion,timeanalysis,linkedlists,stacks,queues,trees,bst,avl,splay,b_trees,hash,heaps,sorting,graphs
+Introductiontoprogramming:3#COMP133#ComputerScience/algorithms,introductionToC,functions,selection,loops,pointers,arrays,structs
+fgt:24#vki#frt/t,t5t,7
+jyuyr:5#fuyt#srty/t,t765
+fgtw:24#vki#frt/t,t5t,7
+jyuyg:5#fuyt#srty/t,t765
+fgtjj:24#vki#frt/t,t5t,7
+jyuyetw:5#fuyt#srty/t,t765

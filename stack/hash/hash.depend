@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654193434 source:c:\users\eng. saleh khatib\desktop\data struct\stack\hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

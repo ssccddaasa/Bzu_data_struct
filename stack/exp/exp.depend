@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651843646 source:c:\users\eng. saleh khatib\desktop\data struct\stack\exp\expp.c
+
+1651843646 source:c:\users\eng. saleh khatib\desktop\data struct\stack\exp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

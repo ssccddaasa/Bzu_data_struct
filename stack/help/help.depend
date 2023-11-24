@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656096872 source:c:\users\eng. saleh khatib\desktop\data struct\stack\help\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1651843528 source:c:\users\eng. saleh khatib\desktop\data struct\linklist\link\linkk.c
+
+1651248801 source:c:\users\eng. saleh khatib\desktop\data struct\linklist\link\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkk.h"
+
+1650114956 c:\users\eng. saleh khatib\desktop\data struct\linklist\link\linkk.h
+
+1651835495 source:c:\users\eng. saleh khatib\desktop\data struct\linklist\link\proj.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

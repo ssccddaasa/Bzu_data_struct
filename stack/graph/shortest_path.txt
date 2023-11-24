@@ -1,0 +1,4 @@
+the shortest path is : from source (Akka) ->Haifa -> destination (Tulkarem) 
+Akka -> Haifa is 35
+Haifa -> Tulkarem is 57
+the shortest distance from source(Akka) to destination (Tulkarem) is 92
